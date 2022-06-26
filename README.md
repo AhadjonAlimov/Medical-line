@@ -2,7 +2,7 @@
 
 This project is full stack (MERN) realtime chat messaging app.
 
-Demo: https://medical-liner.netlify.app/
+# Demo: https://medical-liner.netlify.app/
 
 # Description: This project includes:
 - ReactJS,
