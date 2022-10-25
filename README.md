@@ -18,3 +18,4 @@ This project is full stack (MERN) realtime chat messaging app.
 
 1. Clone Medical-line-server and you need create own chat project on getstream.io after this you should copy-past api-key, app-id, app-secret. -- npm i --, --npm run dev --
 2. Clone Medical-line and also you need copy-past app-id to app.js. -- npm i --, npm start --
+
